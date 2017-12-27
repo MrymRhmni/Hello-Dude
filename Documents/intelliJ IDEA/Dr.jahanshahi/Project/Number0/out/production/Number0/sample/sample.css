@@ -1,0 +1,12 @@
+#imageLeft{
+    -fx-image: url("Res/AUT.jpeg");
+}
+#imageRight{
+    -fx-image: url("Res/EEAut.jpg");
+}
+#searchKey{
+    -fx-background-image: url("Res/search.jpg");
+}
+#anchor{
+    -fx-background-image: url("Res/sky.jpg");
+}
